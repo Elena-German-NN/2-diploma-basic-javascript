@@ -1,0 +1,118 @@
+{
+  "users": [
+    {
+      "created_at": "2019-10-15T05:28:25.593Z",
+      "login": "oleg@demo.ru",
+      "password": "demo",
+      "id": 1,
+      "balance": {
+        "RUB": 1869,
+        "USD": 111129,
+        "EUR": 26.187188480080593,
+        "NTC": 3078
+      }
+    },
+    {
+      "created_at": "2019-11-16T05:28:25.593Z",
+      "login": "ivan@demo.ru",
+      "password": "demo",
+      "id": 2,
+      "netocoins": 100,
+      "balance": {
+        "RUB": 19,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 100
+      }
+    },
+    {
+      "created_at": "2019-5-14T05:28:25.593Z",
+      "login": "petr@demo.ru",
+      "password": "demo",
+      "id": 3,
+      "balance": {
+        "RUB": 20002,
+        "USD": 302,
+        "EUR": 500,
+        "NTC": 50000
+      }
+    },
+    {
+      "created_at": "2020-1-15T05:28:25.593Z",
+      "login": "galina@demo.ru",
+      "password": "demo",
+      "id": 4,
+      "balance": {
+        "RUB": 30000,
+        "USD": 150,
+        "EUR": 300,
+        "NTC": 20000
+      }
+    },
+    {
+      "created_at": "2020-2-16T05:28:25.593Z",
+      "login": "vladimir@demo.ru",
+      "password": "demo",
+      "id": 5,
+      "balance": {
+        "RUB": 60000,
+        "USD": 500,
+        "EUR": 600,
+        "NTC": 90000
+      }
+    },
+    {
+      "created_at": "2022-07-09T15:29:13.844Z",
+      "login": "111",
+      "password": "111",
+      "id": 6,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2022-07-09T15:29:33.665Z",
+      "login": "1",
+      "password": "1",
+      "id": 7,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2022-07-12T07:53:02.771Z",
+      "login": "2",
+      "password": "22",
+      "id": 8,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    }
+  ],
+  "favorites": {
+    "1": {},
+    "2": {
+      "1": "Чувак, который должен 20к неткойнов",
+      "3": "vv",
+      "4": "opp",
+      "5": "ukjk"
+    },
+    "3": {
+      "2": "Важный клиент"
+    },
+    "5": {
+      "1": "Важный пацан",
+      "3": "Дедуля",
+      "4": "Галя"
+    }
+  }
+}
